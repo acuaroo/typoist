@@ -1,7 +1,15 @@
 {
     "normalParagraphs": [
-        ["In downtown last night, a man in a chicken suit was seen running around chasing geese while screaming \"GIVE ME BACK MY LAUNDERY\"", "In dowtown last night, a man in a chicen suit was seen running around chasing geese while screaming \"GIVE ME BACK MY LANDERY\""],
-        ["Local chicken suit man is now being prosecuted for breaking and entering random houses. His only words when questioned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\"", "Local chicken suit man is now being proscuted for braking and entering random houses. His only words when questoned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\""]
+        ["In downtown last night, a man in a chicken suit was seen running around chasing geese while screaming \"GIVE ME BACK MY LAUNDRY\"", "In dowtown last night, a man in a chicen suit was seen running around chasing geese while screaming \"GIVE ME BACK MY LANDRY\""],
+        ["Local chicken suit man is now being arrested for breaking and entering random houses. His only words when questioned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\"", "Local chicken suit man is now being arrsted for braking and entering random houses. His only words when questoned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\""],
+        ["A new local pizza restaurant opened up in downtown, but shutdown on opening day due to suspicious \"mice shaped\" mushrooms appearing on people's pizzas", "A new local pizza resturant opened up in downtown, but shutdown on opening day due to suspicious \"mice shaped\" mushroms apearing on people's pizzas"],
+        ["After further investigation, it seems the pizzas the new restaurant is making also contains traces of cat hair. Owner Jim Smith only states, \"Cats? Phh, you're so silly. There are no cats anywhere, just trust us and our process!\"", "After further investigation, it sems the pizzas the new restarant is making also contains traces of cat hair. Owner Jim Smith only states, \"Cats? Phh, you're so silly. There are no cats anywere, just trust us and our process!\""]
+    ],
+    "normalAnswerKey": [
+        ["n", "k", "u"],
+        ["e", "i", "e"],
+        ["a", "o", "p"],
+        ["e", "u", "h"]
     ]
     
 }

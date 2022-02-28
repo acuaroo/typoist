@@ -1,27 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+  <div class="app">
+    <p>{{ paragraph }}</p>
+
+  </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import HelloWorld from "./components/HelloWorld.vue";
+import { defineComponent, reactive, ref, toRefs } from "vue";
+import paragraphs from "./assets/texts.json";
 
 export default defineComponent({
   name: "App",
-  components: {
-    HelloWorld,
+  components: {},
+  
+  setup() {
+    const normalParagraphs = ref(paragraphs.normalParagraphs)
+    const index = Math.floor(Math.random() * ((normalParagraphs.value.length-1) - 0 + 1) + 0)
+    const randomParagraph = normalParagraphs.value[index]
+
+    const answer = ref(randomParagraph[0])
+    const paragraph = ref(randomParagraph[1])
+
+    return {paragraph}
   },
+  methods: {}
 });
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

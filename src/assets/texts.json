@@ -4,8 +4,9 @@
         ["Local chicken suit man is now being arrested for breaking and entering random houses. His only words when questioned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\"", "Local chicken suit man is now being arrsted for braking and entering random houses. His only words when questoned were, \"Them darn geese better get prosecuted or I swear I will break out and hunt 'em\""],
         ["A new local pizza restaurant opened up in downtown, but shutdown on opening day due to suspicious \"mice shaped\" mushrooms appearing on people's pizzas", "A new local pizza resturant opened up in downtown, but shutdown on opening day due to suspicious \"mice shaped\" mushroms apearing on people's pizzas"],
         ["After further investigation, it seems the pizzas the new restaurant is making also contains traces of cat hair. Owner Jim Smith only states, \"Cats? Phh, you're so silly. There are no cats anywhere, just trust us and our process!\"", "After further investigation, it sems the pizzas the new restarant is making also contains traces of cat hair. Owner Jim Smith only states, \"Cats? Phh, you're so silly. There are no cats anywere, just trust us and our process!\""],
-      ["\"Audio is coming to other tacky areas with tacky substances!!!\" says Joanie Lee, random women we interviewed on the street.", "\"Audio is coming to other tacy areas with tacky subsances!!!\" says Joanie Lee, random women we intervewed on the street."],
-      ["Come on down to the new downtown library! Yes, you heard that right, today is the grand opening of the new library! Though recently, there has been reports of suspicious smells coming from the ceiling, so be ware!", "Come on down to the new downtown library! Yes, you herd that right, today is the grand opening of the new libray! Though recently, there has been reports of suspicious smells coming from the celing, so be ware!"]
+        ["\"Audio is coming to other tacky areas with tacky substances!!!\" says Joanie Lee, random women we interviewed on the street.", "\"Audio is coming to other tacy areas with tacky subsances!!!\" says Joanie Lee, random women we intervewed on the street."],
+        ["Come on down to the new downtown library! Yes, you heard that right, today is the grand opening of the new library! Though recently, there has been reports of suspicious smells coming from the ceiling, so be ware!", "Come on down to the new downtown library! Yes, you herd that right, today is the grand opening of the new libray! Though recently, there has been reports of suspicious smells coming from the celing, so be ware!"],
+        ["This is a testing paragraph for more/less than 3 typos", "This is a testing paragrph for more/less than 3 typs"]
       ],
     "normalAnswerKey": [
         ["n", "k", "u"],
@@ -13,7 +14,8 @@
         ["a", "o", "p"],
         ["e", "u", "h"],
         ["t", "i", "k"],
-        ["i", "a", "r"]
+        ["i", "a", "r"],
+        ["o", "a"]
     ]
     
 }

@@ -33,12 +33,13 @@ export default defineComponent({
     const answer = ref(randomParagraph[0]);
     const paragraph = ref(randomParagraph[1]);
     const list: Array<string> = []
+    const neededList = ref(normalAnswerKey.value[index])
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < (6-neededList.value.length); i++) {
       list[i] = alphabet[Math.floor(Math.random() * alphabet.length)]
     }
+    
     const randomList = ref(list);
-    const neededList = ref(normalAnswerKey.value[index])
     const finalList = randomList.value.concat(neededList.value);
     finalList.sort((a, b) => 0.5 - Math.random());
 

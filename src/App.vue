@@ -21,7 +21,7 @@ export default defineComponent({
   components: {},
 
   setup() {
-    const alphabet = "abcdefghijklmnopqrstuvwxyz";
+    const alphabet = "abcdefghijklmnopqrstuvwxyz.!";
 
     const normalParagraphs = ref(paragraphs.normalParagraphs);
     const normalAnswerKey = ref(paragraphs.normalAnswerKey)

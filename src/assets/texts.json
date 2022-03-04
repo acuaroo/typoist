@@ -7,7 +7,8 @@
         ["\"Audio is coming to other tacky areas with tacky substances!!!\" says Joanie Lee, random women we interviewed on the street.", "\"Audio is coming to other tacy areas with tacky subsances!!!\" says Joanie Lee, random women we intervewed on the street."],
         ["Come on down to the new downtown library! Yes, you heard that right, today is the grand opening of the new library! Though recently, there has been reports of suspicious smells coming from the ceiling, so be ware!", "Come on down to the new downtown library! Yes, you herd that right, today is the grand opening of the new libray! Though recently, there has been reports of suspicious smells coming from the celing, so be ware!"],
         ["This is a testing paragraph for more/less than 3 typos.", "This is a testing paragrph for more/less than 3 typs."],
-        ["Teenager with pot on head with no pants robs a convenience store with only a chainsaw.", "Tenager with pot on head with no pants robs a convenence store with only a chaisaw"]
+        ["Teenager with pot on head with no pants robs a convenience store with only a chainsaw.", "Tenager with pot on head with no pants robs a convenence store with only a chaisaw"],
+        ["The new local pizza restaurant's animatronics have been oozing smelly liquids recently.", "The new local pizza restaurant's animatronics have been oozing smelly liquds recently"]
       ],
     "normalAnswerKey": [
         ["n", "k", "u"],
@@ -17,7 +18,8 @@
         ["t", "i", "k"],
         ["i", "a", "r"],
         ["o", "a"],
-        ["n", "i", "e", "."]
+        ["n", "i", "e", "."],
+        ["i", "."]
     ]
     
 }

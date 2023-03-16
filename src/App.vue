@@ -5,7 +5,7 @@
     </div>
 
     <ul class="flex justify-center">
-      <li class="float-left mt-5 ml-5 py-6 px-6 w-50 font-main-mono text-dark-cobalt text-center bg-newspaper rounded-md text-3xl" v-for="item in finalList" v-bind:key="item.name">
+      <li v-bind:class="{ bg: cobalt }" class="float-left mt-5 ml-5 py-6 px-6 w-50 font-main-mono text-dark-cobalt text-center bg-newspaper rounded-md text-3xl" v-for="item in finalList" v-bind:key="item.name">
         {{ item }}
       </li>
     </ul>
@@ -45,7 +45,9 @@ export default defineComponent({
 
     return { paragraph, randomList, finalList };
   },
-  methods: {},
+  methods: {
+
+  },
 });
 </script>
 
